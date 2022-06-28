@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Tazeem']
-global.premium = ['+971564783202']
-global.ownernomer = '+971564783202'
-global.ownername = 'Zakhmi Dil'
+global.owner = ['Awais']
+global.premium = ['+923146375610']
+global.ownernomer = '+923146375610'
+global.ownername = 'Awais'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
